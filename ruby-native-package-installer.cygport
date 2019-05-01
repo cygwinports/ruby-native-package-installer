@@ -1,7 +1,7 @@
 inherit rubygem
 
 NAME="ruby-native-package-installer"
-VERSION=1.0.4
+VERSION=1.0.6
 RELEASE=1
 CATEGORY="Ruby"
 SUMMARY="Ruby native installer module (no-op on Cygwin)"
